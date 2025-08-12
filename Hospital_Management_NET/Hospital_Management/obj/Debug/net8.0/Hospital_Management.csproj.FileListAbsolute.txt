@@ -1,0 +1,361 @@
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\appsettings.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.exe
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.deps.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.runtimeconfig.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.pdb
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Humanizer.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\MySqlConnector.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.AssemblyReference.cache
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfoInputs.cache
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfo.cs
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.Hospital_Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Hospital_Management.props
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hospital_Management.props
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hospital_Management.props
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\scopedcss\bundle\Hospital_Management.styles.css
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital.776AC507.Up2Date
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\refint\Hospital_Management.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.pdb
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.genruntimeconfig.cache
+D:\NETWorkspace\Hospital_Management\Hospital_Management\obj\Debug\net8.0\ref\Hospital_Management.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NETWorkspace\Hospital_Management\Hospital_Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\appsettings.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.staticwebassets.endpoints.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.exe
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.deps.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.runtimeconfig.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.pdb
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Humanizer.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\MySqlConnector.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.AssemblyReference.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfoInputs.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfo.cs
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\scopedcss\bundle\Hospital_Management.styles.css
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital.776AC507.Up2Date
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\refint\Hospital_Management.dll
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.pdb
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.genruntimeconfig.cache
+D:\cdac\final project\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\ref\Hospital_Management.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\appsettings.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.staticwebassets.endpoints.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.exe
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.deps.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.runtimeconfig.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Hospital_Management.pdb
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Humanizer.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\MySqlConnector.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.CodeDom.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.AssemblyReference.cache
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfoInputs.cache
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfo.cs
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\scopedcss\bundle\Hospital_Management.styles.css
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.Hospital_Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.Hospital_Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Hospital_Management.props
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hospital_Management.props
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hospital_Management.props
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital.776AC507.Up2Date
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\refint\Hospital_Management.dll
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.pdb
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\Hospital_Management.genruntimeconfig.cache
+D:\newSe\Hospital_Management_Microservice\Hospital_Management_NET\Hospital_Management\obj\Debug\net8.0\ref\Hospital_Management.dll
