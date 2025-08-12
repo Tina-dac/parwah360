@@ -1,0 +1,25 @@
+# Git ignore rules 
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Eclipse metadata
+.metadata/
+
+# Ignore build results
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore temp files
+*.tmp
+*.log
+*.vsidx
+
+# Ignore system files
+Thumbs.db
+
